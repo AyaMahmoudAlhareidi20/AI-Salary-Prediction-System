@@ -10,16 +10,6 @@ The main goal is to determine whether job characteristics, company attributes, a
 
 ---
 
-## Team Members
-
-* Amir Khalil Gomaa – 2301060
-* Ahmed Eid Aboaleaz – 2301027
-* Noura Mohamed Gaber – 2301274
-* Aya Khaled Youssef – 2301069
-* Aya Mahmoud Nagah – 2301071
-
----
-
 ## Dataset Description
 
 * Source: Global AI & Machine Learning Salaries dataset
